@@ -1,5 +1,18 @@
 """
 AI-Based Wooden Box Design Generator
+
+"## Summary"
+
+This project presents an AI-based wooden box design generator developed as part
+of an academic course. The system demonstrates how artificial intelligence can
+be applied to automate the design of customizable wooden boxes for amateur
+woodworkers.
+
+The project focuses on AI-assisted logic, system design, and practical
+application rather than full machine learning model training. The result is a
+functional prototype that generates accurate dimensions, material estimates,
+and production-ready outputs while reducing design time and errors.
+
 Course Final Project
 
 This script demonstrates a simplified AI-assisted workflow for generating
